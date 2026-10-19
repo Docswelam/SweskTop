@@ -1,1 +1,6 @@
-
+{
+  "version": "0.2.0",
+  "download_url": "https://github.com/Docswelam/SweskTop/actions/workflows/windows-build.yml",
+  "release_notes": "SweskTop 0.2.0 test build: SweskTop executable names, Arabic RTL, six themes, portable tools, settings editor, help and manual update checks. Download the artifact from a successful Windows build. Windows GUI acceptance testing is required.",
+  "sha256": null
+}
